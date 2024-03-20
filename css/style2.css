@@ -145,6 +145,12 @@ body {
     font-weight: 300;
 }
 
+.paragraph_only_text{
+        color:#fff;
+        line-height: 1.5;
+    }
+
+
 /* seccion 4 */
 
 .seccion4__articles {
